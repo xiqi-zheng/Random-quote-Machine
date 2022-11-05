@@ -1,0 +1,27 @@
+body {
+    padding: 2rem 0 0 2rem;
+}
+
+.bg {
+    background-color: #d4d4d4;
+}
+
+#quote-box {
+    margin: auto;
+    text-align: center;
+}
+
+#text {
+    font-size: 4rem;
+}
+
+#author {
+    font-size: 3rem;
+    text-align: right;
+}
+
+#buttons {
+    position: sticky;
+    padding: 4vm;
+    margin: 4vm;
+}
